@@ -110,6 +110,7 @@ h1,h2,h3,h4,h5{
     background-color: rgba(105, 103, 103, 0.591);
     color: rgb(236, 231, 231);
     box-shadow: 14px 14px 20px 0 rgba(239, 5, 5, 0.395);
+    transform: scale(1.04) rotate(5deg);
 }
 
 .conte-footer{
